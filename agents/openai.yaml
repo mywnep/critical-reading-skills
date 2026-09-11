@@ -1,0 +1,4 @@
+interface:
+  display_name: "批判性精读"
+  short_description: "结合历史经验、跨领域研究与多视角质疑，提炼论文和书籍的真实知识增量"
+  default_prompt: "请用 $critical-reading 精读这份材料，区分已有知识与真实贡献，并建立分层知识模型。"
